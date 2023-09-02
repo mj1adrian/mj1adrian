@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrián</h1>
-<h3 align="center">App && Web && Game Developer From Germany</h3>
+<h3 align="center">Brogrammer From Germany</h3>
 
 - 🔭 I’m currently working on [Forest Knight (Apple App Store)](https://apps.apple.com/de/app/forest-knight/id1658392713)
 
 - 🔭 I’m currently working on [Forest Knight (Google Play Store)](https://play.google.com/store/apps/details?id=com.AdrianMendezJankowska.ForestKnight)
 
 - 📫 How to reach me **mjadrian99@gmail.com**
-
-- ⚡ Fun fact **I am a brogrammer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
