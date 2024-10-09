@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adrián</h1>
-<h3 align="center">An App And Game Developer</h3>
-
-- Apple App Store [https://apps.apple.com/de/developer/adrian-mendez-jankowska/id1657161202](https://apps.apple.com/de/developer/adrian-mendez-jankowska/id1657161202)
-
-- Google Play Store [https://play.google.com/store/apps/developer?id=Adrian+MJ](https://play.google.com/store/apps/developer?id=Adrian+MJ)
+<h3 align="center">An Indi App And Game Developer</h3>
 
 - 💬 Ask me about **Unity**
 
 - 📫 How to reach me **mjadrian99@gmail.com**
 
-- Huawei App Gallery [https://appgallery.huawei.com/app/C112057217](https://appgallery.huawei.com/app/C112057217)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/mj1adrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mj1adrian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
